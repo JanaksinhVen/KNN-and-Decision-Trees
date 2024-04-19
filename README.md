@@ -34,7 +34,7 @@ Note: 1. The bash script should take the path to the file as an input.
 2. Plot inference time for initial KNN model, best KNN model, most optimized KNN model, and the default sklearn KNN model. 
 3. plot the inference time vs train dataset size for initial KNN model, best KNN model, most optimized KNN model, and the default sklearn KNN model.
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 Decision Trees:
 
 A Decision Tree is a versatile and interpretable machine learning algorithm used
